@@ -1,0 +1,13 @@
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\bin\Debug\netcoreapp3.1\AtvServices.exe
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\bin\Debug\netcoreapp3.1\AtvServices.deps.json
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\bin\Debug\netcoreapp3.1\AtvServices.runtimeconfig.json
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\bin\Debug\netcoreapp3.1\AtvServices.runtimeconfig.dev.json
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\bin\Debug\netcoreapp3.1\AtvServices.dll
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\bin\Debug\netcoreapp3.1\AtvServices.pdb
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\obj\Debug\netcoreapp3.1\AtvServices.csproj.AssemblyReference.cache
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\obj\Debug\netcoreapp3.1\AtvServices.AssemblyInfoInputs.cache
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\obj\Debug\netcoreapp3.1\AtvServices.AssemblyInfo.cs
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\obj\Debug\netcoreapp3.1\AtvServices.csproj.CoreCompileInputs.cache
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\obj\Debug\netcoreapp3.1\AtvServices.dll
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\obj\Debug\netcoreapp3.1\AtvServices.pdb
+C:\Users\antonio.marques\Documents\C#\AtvServices\AtvServices\obj\Debug\netcoreapp3.1\AtvServices.genruntimeconfig.cache
